@@ -19,11 +19,11 @@ I am a Ph.D. candidate at the Department of Computer Science and Engineering at 
 
 * B.S. Physics, June 2010 -->
 
-[Projects](./another-page.html).
+[Projects](./another-page.html)
 
+[Codes](https://bitbucket.org/Zahrafn/)
 
-
-[Resume](./another-page.html).
+[Resume](./another-page.html)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
