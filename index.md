@@ -45,12 +45,15 @@ Find the link to my full thesis [here](./https://conservancy.umn.edu/handle/1129
 
 #### Small projects
 
-Quaternions: Walking Skeleton
-Smoothed-particle hydrodynamics(SPH) : Accretion Disk
+Quaternions: Walking Skeleton 
+
+Smoothed-particle hydrodynamics(SPH) : Accretion Disk 
+
 Computer Vision Class project : Region detection
+
 Computer Graphics Class project : Raytracer
 
-[More information](./another-page.html)
+More information about each project can be find [here](./another-page.html)
 
 
 
