@@ -21,7 +21,7 @@ I am a Ph.D. candidate at the Department of Computer Science and Engineering at 
 
 [Projects](./another-page.html).
 
-There should be whitespace between paragraphs.
+
 
 [Resume](./another-page.html).
 
