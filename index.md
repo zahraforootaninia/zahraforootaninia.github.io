@@ -24,14 +24,14 @@ I am a Ph.D. candidate at the [Department of Computer Science and Engineering](.
 #### Frequency-Domain Smoke Guiding
 
 Art-directing smoke for special effects purposes is challenging. Scaling up the resolution can result in unpredictable changes in the behavior of the final animation due to the chaotic motion of fluid. We propose a simple and efficient method for guiding an Eulerian smoke simulation to match the behavior of a specified velocity field, such as a low-resolution animation of the same scene, while preserving the rich, turbulent details arising in the simulated fluid. Our method works by simply combining the high-frequency component of the simulated fluid velocity with the low-frequency component of the input guiding field.
-[Project page](./FDSG.html).
+[Project page](./https://www-users.cse.umn.edu/~foro0012/FDSG/index.html).
 
 
 
 #### Uncertainty Models for TTC-Based Collision Avoidance
 
 In this work, we tackle the problem of uncertainty in sensing data for multi-agent navigation and planning based on a collision avoidance model called Time-To-Collision (TTC). We propose two approaches that assume uncertainty in velocity of agents, isotropic and adversarial model. The isotopic model considers all possible uncertainties while the adversarial model has the uncertainty only in the direction of the head-on collision. We analyze our methods mathematically and experimentally to show that these models can produce collisionfree interaction between agents.
-[Project page](./another-page.html).
+[Project page](./https://www-users.cse.umn.edu/~foro0012/UTTC/index.html).
 
 
 
