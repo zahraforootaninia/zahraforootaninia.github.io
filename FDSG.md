@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## Frequency-Domain Smoke Guiding
 
