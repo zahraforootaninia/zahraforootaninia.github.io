@@ -3,7 +3,7 @@ layout: default
 ---
 ### About Me
 
-I am a Ph.D. candidate at the [Department of Computer Science and Engineering](./https://cse.umn.edu/cs) at the University of Minnesota. My research focus is on guiding and control simulations of highly dynamic phenomena for computer graphics and robotics applications. Currently, I am doing my research under the supervision of [Dr. Rahul Narain](./https://www.cse.iitd.ac.in/~narain/) and co-advised by [Dr. Stephen Guy](./https://www-users.cse.umn.edu/~sjguy/) . previously, I got my M.Sc. in Astrophysics from the Department of Physics and Astronomy at the University of Minnesota in February 2015. My current research lies on simulating a highly dynamic phenomena, such as smoke and crowd, with control over the behavior of the system while the behavior stays natural and realistic.
+I am a Ph.D. candidate at the [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at the University of Minnesota. My research focus is on guiding and control simulations of highly dynamic phenomena for computer graphics and robotics applications. Currently, I am doing my research under the supervision of [Dr. Rahul Narain](https://www.cse.iitd.ac.in/~narain/) and co-advised by [Dr. Stephen Guy](https://www-users.cse.umn.edu/~sjguy/) . previously, I got my M.Sc. in Astrophysics from the Department of Physics and Astronomy at the University of Minnesota in February 2015. My current research lies on simulating a highly dynamic phenomena, such as smoke and crowd, with control over the behavior of the system while the behavior stays natural and realistic.
 
 <!-- ### Education
 
@@ -24,14 +24,14 @@ I am a Ph.D. candidate at the [Department of Computer Science and Engineering](.
 #### Frequency-Domain Smoke Guiding
 
 Art-directing smoke for special effects purposes is challenging. Scaling up the resolution can result in unpredictable changes in the behavior of the final animation due to the chaotic motion of fluid. We propose a simple and efficient method for guiding an Eulerian smoke simulation to match the behavior of a specified velocity field, such as a low-resolution animation of the same scene, while preserving the rich, turbulent details arising in the simulated fluid. Our method works by simply combining the high-frequency component of the simulated fluid velocity with the low-frequency component of the input guiding field.
-[Project page](./https://www-users.cse.umn.edu/~foro0012/FDSG/index.html).
+[Project page](https://www-users.cse.umn.edu/~foro0012/FDSG/index.html).
 
 
 
 #### Uncertainty Models for TTC-Based Collision Avoidance
 
 In this work, we tackle the problem of uncertainty in sensing data for multi-agent navigation and planning based on a collision avoidance model called Time-To-Collision (TTC). We propose two approaches that assume uncertainty in velocity of agents, isotropic and adversarial model. The isotopic model considers all possible uncertainties while the adversarial model has the uncertainty only in the direction of the head-on collision. We analyze our methods mathematically and experimentally to show that these models can produce collisionfree interaction between agents.
-[Project page](./https://www-users.cse.umn.edu/~foro0012/UTTC/index.html).
+[Project page](https://www-users.cse.umn.edu/~foro0012/UTTC/index.html).
 
 
 
@@ -39,7 +39,7 @@ In this work, we tackle the problem of uncertainty in sensing data for multi-age
 
 For my master thesis in Astrophysics I worked on the Galaxy evolutions in the large scale structures. There are many observations in radio wavelength that shows diffuse and large emissions in the galaxy clusters called radio halo and relic. The origin of these emissions are still unknown but scientist believe that they probably created during mergings of galaxy clusters.
 In my theses I looked at the cluster Abell 2256 that know as merging cluster and has a big radio halo. In my work I studied the effect of this merging subclusters on each galaxy in the cluster. I found very interesting results.
-Find the link to my full thesis [here](./https://conservancy.umn.edu/handle/11299/170735).
+Find the link to my full thesis [here](https://conservancy.umn.edu/handle/11299/170735).
 
 
 
