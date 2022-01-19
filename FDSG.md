@@ -1,195 +1,21 @@
+---
+layout: default
+---
 
-<!DOCTYPE html>
-<!--[if IE 7]>    <html class="no-js oldie ie7 ie" lang="en-US" > <![endif]-->
-<!--[if IE 8]>    <html class="no-js oldie ie8 ie" lang="en-US" > <![endif]-->
-<!--[if IE 9 ]>   <html class="no-js       ie9 ie" lang="en-US" > <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en-US" > <!--<![endif]-->
-<html>
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>Frequency-Domain Smoke Guiding</title>
+## Frequency-Domain Smoke Guiding
 
-<!-- devices setting -->
-<meta name="viewport" content="initial-scale=1,user-scalable=no,width=device-width">
-<!-- Microsoft cleartype rendering -->
-<meta http-equiv="cleartype" content="on">
-<meta name="author" content="">
-                    
-<link rel="stylesheet"          href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' >
-<!-- stylesheets -->
-<link rel="stylesheet"          href="base.css"      type="text/css" media="screen"/>
-<link rel="stylesheet"          href="mainv1.css"      type="text/css" media="all" />
-
-               
-<script type='text/javascript' src='jquery-1.8.1.min.js?ver=3.5.1'></script>
-<!-- end wp_head -->
-<link type="text/css" href="main.css" rel="stylesheet"/>
-
-</head>
-
-<body class="single single-portfolio postid-6 boxed" > 
-
-<div id="inner-body">                
+Zahra Forootaninia
+University of Minnesota
+Rahul Narain
+Indian Institute of Technology Delhi
 
 
-<footer id="sitefooter" class="wrapper" role="contentinfo" >
-    <!-- end navigation -->
- </footer><!-- end sitefooter -->  
+SIGGRAPH Asia 2020
 
-        <header id="page-title-section">
-            <div class="page-header container">
-            <!--div class="container fold"><hgroup>-->
-            <div class="theader">
-            <h1 class="page-title" style=font-size:33px>Frequency-Domain Smoke Guiding</h1>
-	    </div>
-	    
-
-            
-	    <br><br/>
-            <!-- <div class="authors">
-                <div class="first-author-block">
-                  <p class="author" style=font-size:18px><a href="http://www-users.cs.umn.edu/~foro0012">Zahra Forootaninia</a></p>
-                  <p class="author" style=font-size:18px>University of Minnesota</p>
-                </div>
-                <div class="second-author-block">
-                  <p class="author" style=font-size:18px><a href="http://rahul.narain.name/">Rahul Narain</a></p>
-                  <p class="author" style=font-size:18px> Indian Institute of Technology Delhi</p>
-                </div>
-	    </div>-->
-
-	    
-                  <h4 class="author" style=font-size:18px><a href="http://www-users.cs.umn.edu/~foro0012">Zahra Forootaninia</a></h4>
-                  <h4 class="author" style=font-size:18px>University of Minnesota</h4>
-                  <h4 class="author" style=font-size:18px><a href="http://rahul.narain.name/">Rahul Narain</a></h4>
-                  <h4 class="author" style=font-size:18px> Indian Institute of Technology Delhi</h4>
+Abstract: We propose a simple and efficient method for guiding an Eulerian smoke simulation to match the behavior of a specified velocity field, such as a low-resolution animation of the same scene, while preserving the rich, turbulent details arising in the simulated fluid. Our method works by simply combining the high-frequency component of the simulated fluid velocity with the low-frequency component of the input guiding field. In contrast to previous work, we show that it is essential to use ideal low-pass and high-pass filters in the frequency domain, in order to avoid artifacts resulting from loss of small-scale details over time.We demonstrate our method on many scenes including those with static and moving obstacles, and show that it produces high-quality results with very little computational overhead.
 
 
+[Paper (14.2 MB)](./pdfs/FD_smoke_guiding.pdf)
+[Code [Bitbucket]](./https://bitbucket.org/zahrafn/frequency_domain_smoke_guiding/src/master/)
 
-	    <br></br>
-	    <h4 class = "header" style="text-align: center"> SIGGRAPH Asia 2020</h4>
-	  
-	  <!--<p class = "header"> SIGGRAPH Asia 2020 - ACM Siggraph </p>-->
-          </div>
-        </header>
-
-      
-        
-
-    <div id="main" class="no-sidebar">
-        <div class="wrapper fold clearfix">
-       <section id="primary" >
-                <div class="content" role="main"  >
-                    
-                    
-                     <div class="wrapper">
-                        <div class="container">
-                            
-                            <article class="post-6 portfolio type-portfolio status-publish hentry no-layout" >
-                                
-                                
-                                
-                                <div class="entry-wrapper">
-                                    
-<!--                                     <div class="entry-media">                                            
- -->                                            <!-- <div class="teaser-img">
-                                            <img src="img/banner.png" alt="prl" width="700px" />
-                                            <br />                                        
-                                            </div>    -->                                         
-                                            
-                                                                                                       
-                                    <div class="entry-content">                                                            
-                                        <div class="overview">                                        
-                                	 <p style=font-size:17px><strong>Abstract: </strong> We propose a simple and efficient method for guiding an Eulerian smoke simulation to match the behavior of a specified velocity field, such as a low-resolution animation of the same scene, while preserving the rich, turbulent details arising in the simulated fluid.
-Our method works by simply combining the high-frequency component of the simulated fluid velocity with the low-frequency component of the input guiding field.
-In contrast to previous work, we show that it is essential to use ideal low-pass and high-pass filters in the frequency domain, in order to avoid artifacts resulting from loss of small-scale details over time.We demonstrate our method on many scenes including those with static and moving obstacles, and show that it produces high-quality results with very little computational overhead.
-						</p>                                            
-                                            <div class="downloadable">
-                                                      <div class="dl-icon">
-							      <a><img class="div-img" src= "pdficon.png"></a>
-                                                      </div>
-                                                      <div class="bib">
-                                                        <a  style=font-size:17px href="FD_smoke_guiding.pdf"> Paper (14.2 MB) </a> 
-
-                                                     <!--  Main Text  <a href="uncertainty-models-ttc.pdf"></a> -->
-                                                      </div>
-                                             </div>
-					     
-					     <div>
-						     <a style=font-size:17px href="https://bitbucket.org/zahrafn/frequency_domain_smoke_guiding/src/master/"> Code [Bitbucket]</a>
-					      </div>
-					      <!--<div <p> Supplemental Material (coming soon) </p> </div>-->
-<!--                                              <div class="downloadable">       
-                                                     <div class="dl-icon">
-                                                        <a href="appendix.pdf"><img class="div-img" src="pdficon.png"></a>
-                                                      </div>
-                                                      <div class="bib">
-                                                      Supplemental Material <a href="appendix.pdf"> </a>
-                                                      </div>
-                                            </div>  --> 
-                                            <!--<p>  We are planning to submitt this work soon .
-					    </p> -->                                           
-                                           <h5></h5>
-                                          
-                                            <br/><br/>
-
-                                    
-
-
-
-                                            <section class="widget-video  ">
-                <div class ="centered">                
-               <iframe width="800" height="400" src="https://www.youtube.com/embed/Qi8pDl7jMd0" frameborder="0" allowfullscreen></iframe>
-<!--                 <p>[<a href="uttc.mp4">Download</a>] </p>
- -->                </div>
-                </section><!-- end widget-video -->
-
-               <!--  <iframe width="320" height="240" 
-                src="https://www.youtube.com/watch?v=UgQT2PHbgew&feature=youtu.be" data-fit="no" frameborder="0" allowfullscreen>
-              </iframe> -->
-<!--                 <p>Self-directed agents form collective patterns
- --><!--                 [<a href="./d">Download</a>]</p>
-
-                                           
-                                </div><!-- entry-content -->
-                                
-                                    
-                                </div><!-- entry-wrapper -->
-                                
-                            </article><!-- widget-container -->
-                            <div class="entry-builder-wrapper">
-                                <div class="entry-builder container">
-                                    <div class="entry-builder-frame">
-                                        
-                                                                                
-                                    </div>                                    
-                                </div><!-- axiom-builder container -->
-                            </div><!-- axiom-builder wrapper -->      
-                </div><!-- container -->
-                    </div><!-- wrapper -->                                                
-                                                                    
-                </div><!-- end content -->
-            </section><!-- end primary -->                            
-          
-        </div>
-    </div><!-- end main -->
-
-  
-<script type='text/javascript' src='lotus/js/plugins.js?ver=1.0'></script>
-<script type='text/javascript' src='lotus/js/libs/superfish.js?ver=1.4.8'></script>
-<script src="lotus/js/script.js"></script>       
-  
- </div>
- 
- <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-57596102-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-</body>
-</html>
+[back](./)
