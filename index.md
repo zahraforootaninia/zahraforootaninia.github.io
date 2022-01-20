@@ -24,7 +24,6 @@ I am a Ph.D. candidate at the [Department of Computer Science and Engineering](h
 #### Frequency-Domain Smoke Guiding
 
 Art-directing smoke for special effects purposes is challenging. Scaling up the resolution can result in unpredictable changes in the behavior of the final animation due to the chaotic motion of fluid. We propose a simple and efficient method for guiding an Eulerian smoke simulation to match the behavior of a specified velocity field, such as a low-resolution animation of the same scene, while preserving the rich, turbulent details arising in the simulated fluid. Our method works by simply combining the high-frequency component of the simulated fluid velocity with the low-frequency component of the input guiding field.
-
 <a href="fdsg.html">Project page</a>
 
 
