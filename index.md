@@ -19,7 +19,7 @@ I am a Ph.D. candidate at the [Department of Computer Science and Engineering](h
 
 * B.S. Physics, June 2010 -->
 
-### Projects
+### Main Projects
 
 #### Frequency-Domain Smoke Guiding
 
@@ -43,7 +43,7 @@ Find the link to my full thesis [here](https://conservancy.umn.edu/handle/11299/
 
 
 
-#### Small projects
+#### Small Projects
 
 Quaternions: Walking Skeleton ([More information](./walking_skeleton.md))
 
@@ -56,7 +56,7 @@ Computer Graphics Class project : Raytracer
 
 
 
-[Codes](https://bitbucket.org/Zahrafn/)
+[All codes](https://bitbucket.org/Zahrafn/)
 
 [Resume](./another-page.html)
 
