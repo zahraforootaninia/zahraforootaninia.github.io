@@ -58,7 +58,7 @@ Computer Graphics Class project : Raytracer
 
 [All codes](https://bitbucket.org/Zahrafn/)
 
-[Resume](./another-page.html)
+[Resume](pdfs/resume.pdf)
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
