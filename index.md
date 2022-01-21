@@ -43,7 +43,7 @@ Find the link to my full thesis [here](https://conservancy.umn.edu/handle/11299/
 
 
 
-#### Small Projects
+### Small Projects
 
 Quaternions: Walking Skeleton ([More information](./walking_skeleton.md))
 
@@ -54,7 +54,7 @@ Computer Vision Class project : Region detection
 Computer Graphics Class project : Raytracer
 
 
-#### Publications
+### Publications
 
 Forootaninia, Zahra, and Rahul Narain. ”Frequency-domain smoke guiding.” ACM Transactions on Graphics (TOG) 39.6 (2020): 1-10.
 
