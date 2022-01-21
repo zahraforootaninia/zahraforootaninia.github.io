@@ -54,13 +54,14 @@ Computer Vision Class project : Region detection
 Computer Graphics Class project : Raytracer
 
 
-##### PUBLICATIONS 
+#### Publications
+
 Forootaninia, Zahra, and Rahul Narain. ”Frequency-domain smoke guiding.” ACM Transactions on Graphics (TOG) 39.6 (2020): 1-10.
-<br></br>
+
 Forootaninia, Zahra, Ioannis Karamouzas, and Rahul Narain. ”Uncertainty Models for TTC-Based Collision-Avoidance.” Robotics: Science and Systems. Vol. 7. 2017.
-<br></br>
+
 Srinivasan Karthik, Majurec Ninoslav, Ahmed Razi, Prager Samuel, Forootaninia Zahra,Mao Peter, Joshil Shashank Srinivas, Tope Michael. ”Terminal Descent Radar System Testbed for Future Planetary Landers.” IEEE Aerospace Conference March 2021.
-<br></br>
+
 Brown, George E., Matthew Overby, Zahra Forootaninia, and Rahul Narain. "Accurate dissipative forces in optimization integrators." ACM Transactions on Graphics (TOG) 37, no. 6 (2018): 1-1
 
 <!-- [All codes](https://bitbucket.org/Zahrafn/)
